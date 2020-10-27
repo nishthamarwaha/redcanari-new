@@ -1,0 +1,21 @@
+- title: Penetration<br> Testing
+  description: Penetration tests are highly technical assessments of your defense against exploitation of weaknesses in your technology infrastructure.
+  icon: /assets/images/service-icons/Penetration_Testing.svg
+  link: #
+  link-id: penetration-testing
+  long-description: Penetration tests are highly technical assessments of your defense against exploitation of weaknesses in your technology infrastructure. 0-day vulnerabilities intricately interlaced into complex IT and OT systems are identified by hands on, manual testing and targeted research at our security labs. We are the trusted by one of the world’s top air navigation service providers to secure air traffic control systems.
+    
+- title: Application <br> Assessment
+  description: Application assessments help identify weaknesses introduced during design, development, deployment and integration, and prioritize remediation.
+  icon: /assets/images/service-icons/Application_Assessment.svg
+  link: #
+  link-id: application-assessment
+  long-description: Security starts at the source. Application assessments help identify weaknesses introduced during design, development, deployment and integration, and prioritize remediation. Custom exploit development, reverse engineering and low-level programming techniques are used to verify that your code is airtight. We identify critical security flaws in the world’s '#1' best-selling core banking software. 
+  
+- title: Red Canari <br> 365
+  description: A precisely planned simulation of covert cyber warfare operations, by sophisticated threat actors, to test organizational cyber resilience.
+  icon: /assets/images/service-icons/RedCanari_365.svg
+  link: #
+  link-id: red-365
+  long-description: Red Canari 365 is a precisely planned simulation of covert cyber warfare operations, by sophisticated threat actors, to test organizational cyber resilience. Elaborate real-world attack campaigns are designed, developed and executed to put your organization in real-world scenarios against a highly motivated adversary. We are entrusted with building cyber resilience at one of Canada’s largest financial crown corporations that contributes $100 billion to global GDP annually. 
+  

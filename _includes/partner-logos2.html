@@ -1,0 +1,11 @@
+<section class="bg-color-1 d-flex align-items-center">
+  <div class="container partner-logo">
+      <div class=" row">
+          {% for logo in site.data.partner_logos2 %}
+          <div class="col-md-3 col-sm-6 col-6 text-center">
+          <img src="{{logo.img | relative_url}}" alt="{{logo.name}}">
+      </div>
+          {% endfor %}            
+      </div>
+  </div>
+</section>

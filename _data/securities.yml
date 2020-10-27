@@ -1,0 +1,12 @@
+- title: Red Canari<br> DevOps
+  description: Builds in security and compliance to the entire software development lifecycle from design and development through testing and deployment to operations and maintenance.
+  icon: /assets/images/service-icons/RedCanari_DevOps.svg
+  link: /#
+  link-id: section-devops
+  long-description: Red Canari DevOps builds in security and compliance to the entire software development lifecycle from design and development through testing and deployment to operations and maintenance. Leverage knowledge gained from decades of work in both software development and offensive security to minimize risk and ensure compliance while you scale and accelerate your SDLC. We secure development and operations on cloud platforms at one of Canada’s premier medical insurers, with a multibillion- dollar investment portfolio.
+  
+- title: Secure Cloud<br> Transformation
+  description: Secure cloud transformation assures security, privacy and compliance at your organization as you embrace cloud technologies in your business transformation journey.
+  icon: /assets/images/service-icons/Secure_Cloud.svg
+  link-id: secure-cloud
+  long-description: Secure cloud transformation assures security, privacy and compliance at your organization as you embrace cloud technologies in your business transformation journey. Our research is increasingly focused on technical vulnerabilities in the cloud control plane that you use to manage and interact with cloud services. We are entrusted with securing cloud initiatives at the '#1' ranked pension plan among nearly 40 Canadian funds with market values above $1 billion. 

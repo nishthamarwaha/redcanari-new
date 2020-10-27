@@ -1,0 +1,16 @@
+_site 
+Gemfile.lock
+npm-debug.log
+package-lock.json
+.idea
+.history
+.jekyll-cache
+.DS_Store
+._*
+node_modules/
+
+.sass-cache
+node_modules
+*.map
+.tmp
+tmp

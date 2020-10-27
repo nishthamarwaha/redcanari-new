@@ -1,0 +1,11 @@
+- name: Burpkit
+  img: /assets/images/client-logo/Burpkit.png
+
+- name: PyMiProxy
+  img: /assets/images/client-logo/PyMiProxy.png
+
+- name: CanariFramework
+  img: /assets/images/client-logo/CanariFramework.png
+
+- name: Sploitego
+  img: /assets/images/client-logo/Sploitego.png

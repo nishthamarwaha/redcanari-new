@@ -1,0 +1,11 @@
+- name: Blackhat
+  img: /assets/images/client-logo/Blackhat.png
+
+- name: Defcon
+  img: /assets/images/client-logo/Defcon.png
+
+- name: Owasp
+  img: /assets/images/client-logo/Owasp.png
+
+- name: Hackfest
+  img: /assets/images/client-logo/Hackfest.png
